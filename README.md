@@ -1,1 +1,0 @@
-# viettel_bug_checker
